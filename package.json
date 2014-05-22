@@ -6,8 +6,20 @@
   "scripts": {
     "test": "make test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoumanSaleem/router-handles-url"
+  },
+  "keywords": [
+    "express",
+    "check",
+    "router"
+  ],
   "author": "Nouman Saleem",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoumanSaleem/router-handles-url/issues"
+  },
   "devDependencies": {
     "express": "^4.3.0",
     "mocha": "^1.19.0"
